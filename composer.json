@@ -1,0 +1,13 @@
+{
+    "name": "anas/newfolder",
+    "authors": [
+        {
+            "name": "anas-tawalbeh",
+            "email": "abuhamza.anas@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php":"*"
+    }
+}
